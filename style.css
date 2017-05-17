@@ -1,0 +1,16 @@
+* {
+    background-color: grey;
+}
+.heading {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: yellow;
+}
+.contex {
+    font-size: 22px;
+    color: greenyellow;
+}
+.play{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
